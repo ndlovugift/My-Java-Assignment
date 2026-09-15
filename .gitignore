@@ -1,0 +1,19 @@
+# Compiled Java Bytecode
+*.class
+
+# Build and Output Directories
+bin/
+build/
+out/
+target/
+
+# IDE Configuration Files
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+
+# System-generated Files
+.DS_Store
+Thumbs.db
